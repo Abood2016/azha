@@ -1,0 +1,15 @@
+body {
+    background: #f5f8fa;
+}
+
+.bootstrap-select>.dropdown-toggle.btn-solid {
+    background-color: #F3F6F9 !important;
+    border-color: #F3F6F9 !important;
+    color: #3F4254 !important;
+}
+
+.bootstrap-select.show>.dropdown-toggle.btn-solid {
+    background-color: #EBEDF3 !important;
+    border-color: #EBEDF3 !important;
+    color: #3F4254 !important;
+}
